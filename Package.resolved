@@ -1,0 +1,41 @@
+{
+  "originHash" : "1371e7c9388ade8332d46cadd6862f09d3a0da8eadfeca4f13c034bfb629f801",
+  "pins" : [
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections",
+      "state" : {
+        "revision" : "d8003787efafa82f9805594bc51100be29ac6903"
+      }
+    },
+    {
+      "identity" : "swift-foundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-foundation.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3785dbb998bf76c3bcc350eca45ac927567648cd"
+      }
+    },
+    {
+      "identity" : "swift-foundation-icu",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-foundation-icu",
+      "state" : {
+        "revision" : "11227a889fa93632ab81a43ea153f444fd515398",
+        "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
